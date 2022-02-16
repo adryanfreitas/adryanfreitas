@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/adryanfreitas/ea02e795260601aa0ddf914460fbfd04/raw/bad4b7009d0661ab26facf5b044c5c354a68869c/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/adryanfreitas/ea02e795260601aa0ddf914460fbfd04/raw/efcf7606dfe96fcd5cc3c88a81def89581d358f7/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Adryan da Luz Freitas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adryanfreitas&color=yellow" alt="Profile views" /> </p>
 
