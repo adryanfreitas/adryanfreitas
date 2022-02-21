@@ -44,4 +44,7 @@
 <a href="https://instagram.com/_adryan6" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-adryanfreitas-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://twitter.com/AdryanFreitas_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-adryanfreitas-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
 </p>
